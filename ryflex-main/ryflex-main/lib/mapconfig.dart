@@ -1,1 +1,0 @@
-String mapkey = "AIzaSyAl22HkH4r93Y_kfCR2C7VJkRJuvlkyXO4";
